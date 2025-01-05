@@ -1,0 +1,3 @@
+openweathermap-settings:
+  sdk-key: anyKey
+  default-city: Moscow
